@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>icons/clock.png</file>
+        <file>icons/covered_cell.png</file>
+        <file>icons/flag.png</file>
+        <file>icons/flag_2.png</file>
+        <file>icons/menu.png</file>
+        <file>icons/mine.png</file>
+        <file>icons/number_1.png</file>
+        <file>icons/number_2.png</file>
+        <file>icons/number_3.png</file>
+        <file>icons/number_4.png</file>
+        <file>icons/number_5.png</file>
+        <file>icons/number_6.png</file>
+        <file>icons/number_7.png</file>
+        <file>icons/number_8.png</file>
+        <file>icons/opened_cell.png</file>
+        <file>icons/exploded_mine.png</file>
+        <file>icons/mine_2.png</file>
+        <file>icons/wrong_mark.png</file>
+        <file>icons/right_mark.png</file>
+        <file>icons/lmc.png</file>
+        <file>icons/mmc.png</file>
+        <file>icons/rmc.png</file>
+        <file>icons/arrow-go-back.png</file>
+    </qresource>
+</RCC>
