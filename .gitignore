@@ -1,0 +1,20 @@
+# Qt build files
+*.pro.user
+*.qmake.stash
+*.pro.user.*
+*.autosave
+
+# Build folders
+build-*/
+*.obj
+*.o
+*.a
+*.so
+*.exe
+*.dll
+*.dylib
+
+# Qt Creator settings
+.DS_Store
+*.swp
+.vscode/
